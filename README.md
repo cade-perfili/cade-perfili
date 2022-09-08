@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cade-perfili
-- 👀 I’m interested in Learning the basics of coding and hopefully striking
 - 🌱 Knows the basics of Front-End Development. Working to become a software developer
 - 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me Here or at perfilijames95@gmail.com
